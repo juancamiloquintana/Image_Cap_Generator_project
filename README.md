@@ -19,7 +19,7 @@ This project implements an automatic image description generator (*Image Caption
 
 ## 📂 Dataset
 
-- **FLICKR8k / FLICKR30k Dataset** for training and validation.
+- **FLICKR8k Dataset** for training and validation.
 - Split into **training**, **validation**, and **test** sets.
 - Dataset source: [https://www.kaggle.com/datasets/adityajn105/flickr8k/data](https://www.kaggle.com/datasets/adityajn105/flickr8k/data)
 
